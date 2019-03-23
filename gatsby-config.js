@@ -166,6 +166,7 @@ module.exports = {
         whitelistPatterns: [/^icon\-/],
       },
     },
+    'gatsby-plugin-react-leaflet',
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
